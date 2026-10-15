@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "name": "Hashing & Frequency Counting",
+    "description": "Count occurrences, detect duplicates, and trade extra space for faster lookup.",
+    "problems": [
+      {
+        "title": "Two Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Contains Duplicate",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Valid Anagram",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Group Anagrams",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 2,
+    "name": "Two Pointers",
+    "description": "Move two indices based on sorted order, matching conditions, or opposing directions.",
+    "problems": [
+      {
+        "title": "Valid Palindrome",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Two Sum II - Input Array Is Sorted",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "3Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Container With Most Water",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 3,
+    "name": "Sliding Window",
+    "description": "Maintain a contiguous range and update its state as the left/right edges move.",
+    "problems": [
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Permutation in String",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Minimum Window Substring",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 4,
+    "name": "Prefix Sum & Difference Array",
+    "description": "Use cumulative totals to answer range-sum questions or apply many range updates efficiently.",
+    "problems": [
+      {
+        "title": "Range Sum Query - Immutable",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Continuous Subarray Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Corporate Flight Bookings",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 5,
+    "name": "Fast & Slow Pointers",
+    "description": "Use different pointer speeds to detect cycles or locate a midpoint.",
+    "problems": [
+      {
+        "title": "Linked List Cycle",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Linked List Cycle II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Middle of the Linked List",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Happy Number",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Find the Duplicate Number",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 6,
+    "name": "Linked List Reversal & Manipulation",
+    "description": "Rewire next pointers carefully; preserve the next node before changing links.",
+    "problems": [
+      {
+        "title": "Reverse Linked List",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Reverse Linked List II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Reorder List",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Remove Nth Node From End of List",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 7,
+    "name": "Stack & Monotonic Stack",
+    "description": "Use LIFO state for nested structure; monotonic stacks find next greater/smaller values.",
+    "problems": [
+      {
+        "title": "Valid Parentheses",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Min Stack",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Daily Temperatures",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Next Greater Element I",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Largest Rectangle in Histogram",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 8,
+    "name": "Queue & Monotonic Deque",
+    "description": "Process in arrival order or keep a deque monotonic for window extrema.",
+    "problems": [
+      {
+        "title": "Implement Queue using Stacks",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Number of Recent Calls",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Design Circular Queue",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Shortest Subarray with Sum at Least K",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 9,
+    "name": "Binary Search",
+    "description": "Halve a sorted search space; define the invariant and boundary updates precisely.",
+    "problems": [
+      {
+        "title": "Binary Search",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Search Insert Position",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Koko Eating Bananas",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 10,
+    "name": "Binary Search on Answer",
+    "description": "Binary-search a feasible answer when feasibility is monotonic.",
+    "problems": [
+      {
+        "title": "Sqrt(x)",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Capacity To Ship Packages Within D Days",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Split Array Largest Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Aggressive Cows (common interview variant)",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 11,
+    "name": "Sorting & Intervals",
+    "description": "Sort by a meaningful key, then sweep to merge, select, or detect overlaps.",
+    "problems": [
+      {
+        "title": "Merge Intervals",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Insert Interval",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Non-overlapping Intervals",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Meeting Rooms",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 12,
+    "name": "Cyclic Sort & Index Placement",
+    "description": "When values map to a limited index range, place each value at its intended index.",
+    "problems": [
+      {
+        "title": "Missing Number",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Find All Numbers Disappeared in an Array",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Find the Duplicate Number",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Set Mismatch",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "First Missing Positive",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 13,
+    "name": "BFS on Graphs & Grids",
+    "description": "Use a queue to explore by distance layers; mark visited when enqueuing.",
+    "problems": [
+      {
+        "title": "Binary Tree Level Order Traversal",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Rotting Oranges",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "01 Matrix",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Word Ladder",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Shortest Path in Binary Matrix",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 14,
+    "name": "DFS & Flood Fill",
+    "description": "Explore a component recursively or iteratively; track visited state to avoid repeats.",
+    "problems": [
+      {
+        "title": "Number of Islands",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Max Area of Island",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Flood Fill",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Surrounded Regions",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Clone Graph",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 15,
+    "name": "Topological Sort",
+    "description": "For directed dependencies, repeatedly process zero-indegree nodes or use DFS states.",
+    "problems": [
+      {
+        "title": "Course Schedule",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Course Schedule II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Alien Dictionary",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Minimum Height Trees",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Find Eventual Safe States",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 16,
+    "name": "Union-Find / Disjoint Set Union",
+    "description": "Maintain connected components with path compression and union by rank/size.",
+    "problems": [
+      {
+        "title": "Number of Provinces",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Redundant Connection",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Accounts Merge",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Graph Valid Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Most Stones Removed with Same Row or Column",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 17,
+    "name": "Shortest Path Algorithms",
+    "description": "Choose BFS for unweighted edges, Dijkstra for non-negative weights, and Bellman-Ford when needed.",
+    "problems": [
+      {
+        "title": "Network Delay Time",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Path With Minimum Effort",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Shortest Path in Binary Matrix",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 18,
+    "name": "Backtracking & Subsets",
+    "description": "Choose, recurse, undo; define decision points and prune impossible branches.",
+    "problems": [
+      {
+        "title": "Subsets",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Subsets II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Combination Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Combination Sum II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Permutations",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 19,
+    "name": "Backtracking & Permutations",
+    "description": "Track used elements or swap in place; avoid duplicate branches when values repeat.",
+    "problems": [
+      {
+        "title": "Permutations",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Permutations II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Palindrome Partitioning",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "N-Queens",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 20,
+    "name": "Trie / Prefix Tree",
+    "description": "Store prefixes as paths to support fast prefix queries and word search.",
+    "problems": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Design Add and Search Words Data Structure",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Word Search II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Replace Words",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Longest Word in Dictionary",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 21,
+    "name": "Binary Tree Traversals",
+    "description": "Know preorder, inorder, postorder, and level order; choose traversal for the information needed.",
+    "problems": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Binary Tree Preorder Traversal",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Binary Tree Postorder Traversal",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Binary Tree Level Order Traversal",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 22,
+    "name": "Tree DFS & Properties",
+    "description": "Return subtree information upward and combine child results to calculate tree properties.",
+    "problems": [
+      {
+        "title": "Maximum Depth of Binary Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Diameter of Binary Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Balanced Binary Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Same Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 23,
+    "name": "Binary Search Trees",
+    "description": "Use ordering constraints to prune searches; validate whole subtree bounds when needed.",
+    "problems": [
+      {
+        "title": "Validate Binary Search Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Search in a Binary Search Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Insert into a Binary Search Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Kth Smallest Element in a BST",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Delete Node in a BST",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 24,
+    "name": "Tree Construction & Serialization",
+    "description": "Reconstruct structure from traversal properties or encode/decode trees consistently.",
+    "problems": [
+      {
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Flatten Binary Tree to Linked List",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Recover Binary Search Tree",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 25,
+    "name": "Heap / Priority Queue",
+    "description": "Keep the best k items or repeatedly extract the next minimum/maximum.",
+    "problems": [
+      {
+        "title": "Kth Largest Element in an Array",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Task Scheduler",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 26,
+    "name": "Greedy Algorithms",
+    "description": "Make a locally optimal choice only after identifying why it leads to a global optimum.",
+    "problems": [
+      {
+        "title": "Jump Game",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Jump Game II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Gas Station",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Partition Labels",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Candy",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 27,
+    "name": "Dynamic Programming Foundations",
+    "description": "Define state, transition, base case, and iteration order; compare memoization with tabulation.",
+    "problems": [
+      {
+        "title": "Climbing Stairs",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Min Cost Climbing Stairs",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "House Robber",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "House Robber II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Decode Ways",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 28,
+    "name": "DP on Grids",
+    "description": "Build states by cell and combine valid predecessor states; establish boundary initialization.",
+    "problems": [
+      {
+        "title": "Unique Paths",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Unique Paths II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Minimum Path Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Triangle",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Maximal Square",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 29,
+    "name": "Knapsack & Subset DP",
+    "description": "Track capacity/sum and item index; iteration direction distinguishes 0/1 from unbounded choices.",
+    "problems": [
+      {
+        "title": "Partition Equal Subset Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Target Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Coin Change",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Coin Change II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Ones and Zeroes",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 30,
+    "name": "Longest Increasing Subsequence & Sequence DP",
+    "description": "Use DP over ending positions or maintain tails with binary search for LIS.",
+    "problems": [
+      {
+        "title": "Longest Increasing Subsequence",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Number of Longest Increasing Subsequence",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Longest String Chain",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Russian Doll Envelopes",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Maximum Length of Repeated Subarray",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 31,
+    "name": "String DP & Edit Distance",
+    "description": "Use prefix states for two strings and transitions for match, insert, delete, or replace.",
+    "problems": [
+      {
+        "title": "Longest Common Subsequence",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Edit Distance",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Distinct Subsequences",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Wildcard Matching",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Regular Expression Matching",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 32,
+    "name": "DP on Trees",
+    "description": "Compute a state per node and combine children; sometimes return multiple states to the parent.",
+    "problems": [
+      {
+        "title": "House Robber III",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Maximum Product of Splitted Binary Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Longest ZigZag Path in a Binary Tree",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Distribute Coins in Binary Tree",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 33,
+    "name": "Bit Manipulation",
+    "description": "Use XOR, masks, shifts, and bit tests to encode compact state or exploit binary properties.",
+    "problems": [
+      {
+        "title": "Single Number",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Number of 1 Bits",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Counting Bits",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Missing Number",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Sum of Two Integers",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 34,
+    "name": "Math & Number Theory",
+    "description": "Use divisibility, gcd, modular arithmetic, and mathematical invariants to simplify computation.",
+    "problems": [
+      {
+        "title": "Count Primes",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Greatest Common Divisor of Strings",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Pow(x, n)",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Happy Number",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Factorial Trailing Zeroes",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 35,
+    "name": "Matrix Traversal & Simulation",
+    "description": "Translate movement rules into boundaries and directions; keep visited state when needed.",
+    "problems": [
+      {
+        "title": "Spiral Matrix",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Rotate Image",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Set Matrix Zeroes",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Game of Life",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Diagonal Traverse",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 36,
+    "name": "String Matching & KMP",
+    "description": "Preprocess pattern prefixes so mismatches avoid restarting comparisons from scratch.",
+    "problems": [
+      {
+        "title": "Find the Index of the First Occurrence in a String",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Repeated Substring Pattern",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Shortest Palindrome",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Longest Happy Prefix",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Implement strStr (KMP practice)",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 37,
+    "name": "Sweep Line & Event Ordering",
+    "description": "Sort start/end events and maintain active counts or intervals as a coordinate moves.",
+    "problems": [
+      {
+        "title": "Meeting Rooms II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "My Calendar I",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "My Calendar II",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "The Skyline Problem",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Car Pooling",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 38,
+    "name": "Segment Tree & Fenwick Tree",
+    "description": "Use a tree-like index structure for repeated range queries and point/range updates.",
+    "problems": [
+      {
+        "title": "Range Sum Query - Mutable",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Reverse Pairs",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Range Module",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Create Sorted Array through Instructions",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 39,
+    "name": "Advanced Graph State / Multi-source BFS",
+    "description": "Model states explicitly; seed multiple sources or use 0-1 BFS when edge costs are 0 or 1.",
+    "problems": [
+      {
+        "title": "Walls and Gates",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "As Far from Land as Possible",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Shortest Path with Alternating Colors",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Open the Lock",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  },
+  {
+    "id": 40,
+    "name": "Bitmask DP & State Compression",
+    "description": "Represent subsets as bit masks and memoize transitions between compact states.",
+    "problems": [
+      {
+        "title": "Shortest Path Visiting All Nodes",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Can I Win",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Partition to K Equal Sum Subsets",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Minimum Incompatibility",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "Smallest Sufficient Team",
+        "url": "https://leetcode.com/problemset/"
+      }
+    ],
+    "status": "Not started"
+  }
+]
